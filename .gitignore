@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+
+# MacOS system files
+.DS_Store
+
+# Kaggle temporary files
+*.tmp
+
+# Compressed files
+*.zip
+
+# Model artifacts
+*.pkl
+*.joblib
+
+# VS Code settings
+.vscode/
